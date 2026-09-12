@@ -1,0 +1,11 @@
+.git/
+node_modules/
+.venv/
+__pycache__/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
